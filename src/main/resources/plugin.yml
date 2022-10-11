@@ -1,0 +1,6 @@
+name: TransmitMessages
+version: '${project.version}'
+main: me.mrenxo.transmitmessages.TransmitMessages
+api-version: 1.17
+authors: [ MrEnx0 ]
+description: Message API that uses MiniMessage
